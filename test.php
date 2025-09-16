@@ -1,4 +1,4 @@
 <?php
 
 $temp = 'this is a string';
-$closure = fn()=>'this is a closure';
+$closure = fn () => 'this is a closure';
